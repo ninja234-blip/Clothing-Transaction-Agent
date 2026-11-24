@@ -1,0 +1,7 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    { "name": "Chat with the agent", "type": "debugpy", "request": "launch", "program": "${workspaceFolder}/main.py", "console": "integratedTerminal" },
+    { "name": "Scripted demo", "type": "debugpy", "request": "launch", "program": "${workspaceFolder}/main.py", "args": ["--demo"], "console": "integratedTerminal" }
+  ]
+}

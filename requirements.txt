@@ -1,0 +1,4 @@
+# Demo mode needs NOTHING (standard library only).
+# Uncomment what you want to try:
+# google-adk>=1.0.0     # real Google ADK multi-agent mode (needs GOOGLE_API_KEY)
+# mcp>=1.0.0            # expose the tools as an MCP server
